@@ -57,7 +57,7 @@ Each script outputs classification metrics and precision-recall curves.
 
 **Cross-Attention Fusion Model:** Accuracy 83.1%, ROC-AUC 90.6%
 
-See detailed analysis in [results.md`](results/results.md).
+See detailed analysis in results.md.
 
 ## Insights
 
