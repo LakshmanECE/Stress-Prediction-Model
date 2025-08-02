@@ -31,7 +31,7 @@ This project implements stress detection using physiological signals from the WE
 
  Prepare Dataset
 
-* Download the **WESAD dataset** from [link](https://www.ubicomplab.cs.washington.edu/wesad/).
+* Download the **WESAD dataset** from https://ubi29.informatik.uni-siegen.de/usi/data_wesad.html
 * Preprocess signals using filtering and windowing (scripts provided in `src/`).
 * Place processed CSV files in the `Filtered_Signals/` directory (path configurable in scripts).
 
