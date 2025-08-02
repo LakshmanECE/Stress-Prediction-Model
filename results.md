@@ -39,11 +39,14 @@ This document summarizes evaluation metrics and key insights for three model var
 
 ## Precision-Recall Curves
 
-* **Standalone**: <img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/b8ff3940-2a8c-4ba9-b926-6a2cb7621932" />
+* **Standalone**:
+*  <img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/b8ff3940-2a8c-4ba9-b926-6a2cb7621932" />
 
-* **Simple Fusion**: <img width="860" height="677" alt="image" src="https://github.com/user-attachments/assets/42d5e7a6-2e9d-4edb-aa8d-32857630daf9" />
+* **Simple Fusion**:
+*  <img width="860" height="677" alt="image" src="https://github.com/user-attachments/assets/42d5e7a6-2e9d-4edb-aa8d-32857630daf9" />
 
-* **Cross-Attention Fusion**: <img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/c88334bf-5931-4274-8f22-ec9049879cb7" />
+* **Cross-Attention Fusion**:
+* <img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/c88334bf-5931-4274-8f22-ec9049879cb7" />
 
 
 ---
