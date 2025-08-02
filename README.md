@@ -29,20 +29,7 @@ This project implements stress detection using physiological signals from the WE
 
 ## Setup
 
-### 1. Clone Repository
-
-```bash
-git clone <repo-url>
-cd <repo-name>
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Prepare Dataset
+ Prepare Dataset
 
 * Download the **WESAD dataset** from [link](https://www.ubicomplab.cs.washington.edu/wesad/).
 * Preprocess signals using filtering and windowing (scripts provided in `src/`).
