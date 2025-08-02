@@ -58,6 +58,4 @@ This document summarizes evaluation metrics and key insights for three model var
 * Cross-attention is **best when prioritizing recall** (safety-critical detection where missing stress is worse than false alarms).
 * ROC-AUC ranking: **Cross-Attention > Simple Fusion > Standalone**.
 
----
 
-*Note: Add links or references to plots (Precision-Recall curves) once generated as PNG/SVG files.*
